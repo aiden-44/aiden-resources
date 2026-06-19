@@ -42,7 +42,6 @@
 ## 링크
 
 - ▶️ **유튜브 채널:** https://www.youtube.com/@Aiden_channel
-- 💬 **질문 · 오류 제보:** [이슈 남기기](../../issues)
 
 ---
 
