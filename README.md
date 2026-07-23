@@ -25,6 +25,7 @@
 |---|---|---|
 | 헤르메스 에이전트 시작하기 | 헤르메스 에이전트 | [바로가기 →](guides/hermes.md) |
 | 헤르메스 에이전트 칸반 기능 활용하기 (멀티에이전트) | 헤르메스 에이전트 | [바로가기 →](guides/hermes-kanban.md) |
+| 옵시디언 시작하기 | 옵시디언 | [바로가기 →](guides/obsidian.md) |
 | 나만의 LLM 위키 만들기 (두 번째 뇌) | 옵시디언 · 헤르메스 에이전트 | [바로가기 →](guides/llm-wiki-obsidian-hermes.md) |
 | Graphify로 내 위키에 자료 빠르게 쌓기 | 옵시디언 · 헤르메스 에이전트 · Graphify | [바로가기 →](guides/llm-wiki-graphify.md) |
 | Obsidian+NotebookLM으로 세컨트 브레인 만들기 | 옵시디언 · NotebookLM | [바로가기 →](guides/obsidian-notebooklm.md) |
