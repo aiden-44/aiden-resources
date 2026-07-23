@@ -23,6 +23,7 @@
 
 | 주제 | 다루는 도구 | 가이드 |
 |---|---|---|
+| 헤르메스 에이전트 사용법 총정리 | 헤르메스 에이전트 | [바로가기 →](guides/hermes.md) |
 | 나만의 LLM 위키 만들기 (두 번째 뇌) | 옵시디언 · 헤르메스 에이전트 | [바로가기 →](guides/llm-wiki-obsidian-hermes.md) |
 | Graphify로 내 위키에 자료 빠르게 쌓기 | 옵시디언 · 헤르메스 에이전트 · Graphify | [바로가기 →](guides/llm-wiki-graphify.md) |
 | Obsidian+NotebookLM으로 세컨트 브레인 만들기 | 옵시디언 · NotebookLM | [바로가기 →](guides/obsidian-notebooklm.md) |
