@@ -269,7 +269,7 @@ requirements.txt 파일을 생성해줘
 ### 참고 링크
 - 헤르메스 에이전트 원클릭 설치 (Hostinger): <https://hostinger.com/vps/docker/hermes-agent>
 - OpenRouter: <https://openrouter.ai>
-- 위키독스 — Hermes Agent: 성장하는 AI 에이전트 실전 가이드 (채찍피티)
+- 위키독스: <https://wikidocs.net/book/19414>
 
 ---
 
